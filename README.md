@@ -1,4 +1,4 @@
-# 🏈 Advance Expedition Project
+# 🏈 RiseLand TravelsGroup Project
 ## 📌 Описание
 
 Этот проект был создан для не большой компаний.
@@ -24,12 +24,13 @@
 
 
 ```bash
-git clone https://github.com/blkbyte/advanced-expedition.git 
+git clone https://github.com/zayron128/riseland-travelsgroup.git 
 ```
 
 - Открыть index.html в браузере.
 
 ## 📬 Автор
 
-- BlackByte
+- Zayron
 - Telegram: @blkbyte
+- Gmail: zayron128@gmail.com
